@@ -1,0 +1,98 @@
+b{
+	font-size:large;background:lightblue;
+}
+pre b{
+	font-size:30px;
+}
+u{
+	color:red;
+}
+
+label{
+	display:inline-block;
+    width: 550px ;
+    height: 30x;
+    line-height: 30px;
+    font-size: 16px;
+	background:lightblue;
+	margin:2px 6px 6px 7px;
+}
+select{
+	height:30px;
+	width:363px;
+}
+[type=text]{
+	height:25px;
+	font-size:16px;
+}
+[type=tel]{
+	height:25px;font-size:16px;
+}
+[type=date]{
+	width:358px;
+	height:30px;
+	font-size:16px;"
+}
+
+.lightblue{
+	width:200px;
+	height:40px;
+	background:lightblue;
+	font-size:20px;
+}
+[type=reset]{
+	width:200px;
+	height:40px;
+	background:lightgreen;
+	font-size:20px;
+}
+.pink{
+	width:200px;
+	height:40px;
+	background:pink;
+	font-size:20px;
+}
+.red{
+	font-size:20px;
+	color:red;
+}
+
+.filelabel{
+	display:inline-block;
+    width: 550px ;
+    height: 40x;
+    line-height: 40px;
+    font-size: 16px;
+	background:lightblue;
+	margin:2px 5px 5px 7px;
+}
+.file{
+	height:40px;
+	font-size:16px; 
+}
+.div1{
+	width:1900px;
+  	height:100%;
+    position:relative;
+}
+.div2{
+	text-align:center;
+}
+th{
+	white-space:nowrap; 
+	vertical-align: middle;
+	text-align: center;
+	background:lightgreen;
+}
+
+td{
+	white-space:nowrap; 
+	vertical-align: middle;
+	text-align: center;
+}
+
+.mdbutton{
+	width:50px;
+	height:30px;
+	font-size:16px;
+}

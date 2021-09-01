@@ -1,0 +1,74 @@
+b{
+	font-size:large;background:lightblue;
+}
+
+pre b{
+	width:23%;
+	font-size:40px;
+}
+u{
+	font-size:18px;
+	color:red;
+}
+
+label{
+    display:inline-block;
+    vertical-align: top;
+    width: 23%;
+    height: 60px;
+    font-size: 20px;
+	background:lightblue;
+	margin:0px 12px 20px 10px;
+}
+.D{
+	width:23.58%;
+	height:60px;
+	font-size:20px;	
+}
+.P{
+	width:23.43%;
+	height:60px;
+	font-size:20px;
+}
+[type=text]{
+	width:23%;
+	height:53px;
+	font-size:20px;
+}
+[type=tel]{
+	width:23%;
+	height:60px;
+	font-size:20px;
+}
+[type=date]{
+	width:23.2%;
+	height:60px;
+	font-size:20px;"
+}
+
+.lightblue{
+	width:20%;
+	height:60px;
+	background:lightblue;
+	font-size:25px;
+}
+.cancel{
+	width:20%;
+	height:60px;
+	background:lightgreen;
+	font-size:25px;
+}
+
+.red{
+	color:red;
+}
+
+.div1{
+	width:1600px;
+	max-width:1900px;
+  	margin:0 auto;
+}
+
+.div2{
+  text-align:center;
+}
